@@ -1,0 +1,4 @@
+build/
+audio/
+__pycache__/
+*.pyc

@@ -1,0 +1,1026 @@
+{
+  "title": "Swimming: The art",
+  "author": "Wong Heung Sang",
+  "edition": "Preview edition",
+  "source": "https://github.com/whsbooks/swimming-book",
+  "voice": "Piper en_US-lessac-medium (length_scale 1.06, loudnorm -16 LUFS)",
+  "chapters": 50,
+  "audiobook_seconds": 473.32,
+  "video_seconds": 474.27,
+  "youtube": "output/swimming-the-art-youtube.mp4",
+  "m4a": "output/swimming-the-art-audiobook.m4a",
+  "mp3": "output/swimming-the-art-audiobook.mp3",
+  "timeline": [
+    {
+      "index": 0,
+      "kind": "title",
+      "title": "title",
+      "start": 0.0,
+      "seconds": 10.167
+    },
+    {
+      "index": 1,
+      "kind": "chapter",
+      "title": "Float",
+      "start": 10.167,
+      "seconds": 10.2
+    },
+    {
+      "index": 2,
+      "kind": "chapter",
+      "title": "Relax",
+      "start": 20.367,
+      "seconds": 7.567
+    },
+    {
+      "index": 3,
+      "kind": "chapter",
+      "title": "Meditation",
+      "start": 27.933,
+      "seconds": 5.933
+    },
+    {
+      "index": 4,
+      "kind": "chapter",
+      "title": "Art",
+      "start": 33.867,
+      "seconds": 5.2
+    },
+    {
+      "index": 5,
+      "kind": "chapter",
+      "title": "Observe",
+      "start": 39.067,
+      "seconds": 14.1
+    },
+    {
+      "index": 6,
+      "kind": "chapter",
+      "title": "Swim",
+      "start": 53.167,
+      "seconds": 9.833
+    },
+    {
+      "index": 7,
+      "kind": "chapter",
+      "title": "Crowded",
+      "start": 63.0,
+      "seconds": 12.633
+    },
+    {
+      "index": 8,
+      "kind": "chapter",
+      "title": "Shallow",
+      "start": 75.633,
+      "seconds": 6.667
+    },
+    {
+      "index": 9,
+      "kind": "chapter",
+      "title": "Get out",
+      "start": 82.3,
+      "seconds": 7.467
+    },
+    {
+      "index": 10,
+      "kind": "chapter",
+      "title": "Goal",
+      "start": 89.767,
+      "seconds": 12.2
+    },
+    {
+      "index": 11,
+      "kind": "chapter",
+      "title": "Fun",
+      "start": 101.967,
+      "seconds": 5.867
+    },
+    {
+      "index": 12,
+      "kind": "chapter",
+      "title": "Pool",
+      "start": 107.833,
+      "seconds": 6.567
+    },
+    {
+      "index": 13,
+      "kind": "chapter",
+      "title": "Beach",
+      "start": 114.4,
+      "seconds": 10.867
+    },
+    {
+      "index": 14,
+      "kind": "chapter",
+      "title": "Freestyle",
+      "start": 125.267,
+      "seconds": 5.7
+    },
+    {
+      "index": 15,
+      "kind": "chapter",
+      "title": "Breathing",
+      "start": 130.967,
+      "seconds": 8.3
+    },
+    {
+      "index": 16,
+      "kind": "chapter",
+      "title": "Eyes",
+      "start": 139.267,
+      "seconds": 10.467
+    },
+    {
+      "index": 17,
+      "kind": "chapter",
+      "title": "Rhythm",
+      "start": 149.733,
+      "seconds": 6.533
+    },
+    {
+      "index": 18,
+      "kind": "chapter",
+      "title": "Mistake",
+      "start": 156.267,
+      "seconds": 8.9
+    },
+    {
+      "index": 19,
+      "kind": "chapter",
+      "title": "Teacher",
+      "start": 165.167,
+      "seconds": 6.567
+    },
+    {
+      "index": 20,
+      "kind": "chapter",
+      "title": "Routine",
+      "start": 171.733,
+      "seconds": 7.0
+    },
+    {
+      "index": 21,
+      "kind": "chapter",
+      "title": "Passion",
+      "start": 178.733,
+      "seconds": 6.367
+    },
+    {
+      "index": 22,
+      "kind": "chapter",
+      "title": "Habit",
+      "start": 185.1,
+      "seconds": 6.0
+    },
+    {
+      "index": 23,
+      "kind": "chapter",
+      "title": "Change",
+      "start": 191.1,
+      "seconds": 6.333
+    },
+    {
+      "index": 24,
+      "kind": "chapter",
+      "title": "Ideas",
+      "start": 197.433,
+      "seconds": 6.3
+    },
+    {
+      "index": 25,
+      "kind": "chapter",
+      "title": "Wisdom",
+      "start": 203.733,
+      "seconds": 6.433
+    },
+    {
+      "index": 26,
+      "kind": "chapter",
+      "title": "Feel",
+      "start": 210.167,
+      "seconds": 11.933
+    },
+    {
+      "index": 27,
+      "kind": "chapter",
+      "title": "Balance",
+      "start": 222.1,
+      "seconds": 6.2
+    },
+    {
+      "index": 28,
+      "kind": "chapter",
+      "title": "Hands",
+      "start": 228.3,
+      "seconds": 12.8
+    },
+    {
+      "index": 29,
+      "kind": "chapter",
+      "title": "Head",
+      "start": 241.1,
+      "seconds": 8.033
+    },
+    {
+      "index": 30,
+      "kind": "chapter",
+      "title": "Legs",
+      "start": 249.133,
+      "seconds": 6.8
+    },
+    {
+      "index": 31,
+      "kind": "chapter",
+      "title": "Knees",
+      "start": 255.933,
+      "seconds": 6.4
+    },
+    {
+      "index": 32,
+      "kind": "chapter",
+      "title": "Toes",
+      "start": 262.333,
+      "seconds": 6.433
+    },
+    {
+      "index": 33,
+      "kind": "chapter",
+      "title": "Body",
+      "start": 268.767,
+      "seconds": 14.767
+    },
+    {
+      "index": 34,
+      "kind": "chapter",
+      "title": "Wave",
+      "start": 283.533,
+      "seconds": 8.267
+    },
+    {
+      "index": 35,
+      "kind": "chapter",
+      "title": "Movement",
+      "start": 291.8,
+      "seconds": 6.767
+    },
+    {
+      "index": 36,
+      "kind": "chapter",
+      "title": "Form",
+      "start": 298.567,
+      "seconds": 11.767
+    },
+    {
+      "index": 37,
+      "kind": "chapter",
+      "title": "Circles",
+      "start": 310.333,
+      "seconds": 6.767
+    },
+    {
+      "index": 38,
+      "kind": "chapter",
+      "title": "Every pool",
+      "start": 317.1,
+      "seconds": 6.533
+    },
+    {
+      "index": 39,
+      "kind": "chapter",
+      "title": "Lane",
+      "start": 323.633,
+      "seconds": 18.9
+    },
+    {
+      "index": 40,
+      "kind": "chapter",
+      "title": "Fast lane",
+      "start": 342.533,
+      "seconds": 7.333
+    },
+    {
+      "index": 41,
+      "kind": "chapter",
+      "title": "Guarding",
+      "start": 349.867,
+      "seconds": 14.333
+    },
+    {
+      "index": 42,
+      "kind": "chapter",
+      "title": "Space",
+      "start": 364.2,
+      "seconds": 7.467
+    },
+    {
+      "index": 43,
+      "kind": "chapter",
+      "title": "Elsewhere",
+      "start": 371.667,
+      "seconds": 6.233
+    },
+    {
+      "index": 44,
+      "kind": "chapter",
+      "title": "Compare",
+      "start": 377.9,
+      "seconds": 8.433
+    },
+    {
+      "index": 45,
+      "kind": "chapter",
+      "title": "Pass",
+      "start": 386.333,
+      "seconds": 7.867
+    },
+    {
+      "index": 46,
+      "kind": "chapter",
+      "title": "Steady",
+      "start": 394.2,
+      "seconds": 14.9
+    },
+    {
+      "index": 47,
+      "kind": "chapter",
+      "title": "Suit",
+      "start": 409.1,
+      "seconds": 16.833
+    },
+    {
+      "index": 48,
+      "kind": "chapter",
+      "title": "Alert",
+      "start": 425.933,
+      "seconds": 18.3
+    },
+    {
+      "index": 49,
+      "kind": "chapter",
+      "title": "Reflection",
+      "start": 444.233,
+      "seconds": 9.133
+    },
+    {
+      "index": 50,
+      "kind": "chapter",
+      "title": "Master swimmer",
+      "start": 453.367,
+      "seconds": 9.3
+    },
+    {
+      "index": 51,
+      "kind": "end",
+      "title": "end",
+      "start": 462.667,
+      "seconds": 11.6
+    }
+  ],
+  "chapter_audio": [
+    {
+      "n": 1,
+      "title": "Float",
+      "verses": [
+        "To swim first is to float."
+      ],
+      "notes": [
+        "The water is there to help you to swim."
+      ],
+      "narration": "Chapter 1. Float. To swim first is to float. Explain notes. The water is there to help you to swim.",
+      "audio": "audio/01-full.wav",
+      "seconds": 10.2,
+      "mp3": "output/chapters/01-float.mp3"
+    },
+    {
+      "n": 2,
+      "title": "Relax",
+      "verses": [
+        "Muscles that do not need to be used should be relaxed."
+      ],
+      "notes": [],
+      "narration": "Chapter 2. Relax. Muscles that do not need to be used should be relaxed.",
+      "audio": "audio/02-full.wav",
+      "seconds": 7.55,
+      "mp3": "output/chapters/02-relax.mp3"
+    },
+    {
+      "n": 3,
+      "title": "Meditation",
+      "verses": [
+        "Swimming is meditation."
+      ],
+      "notes": [],
+      "narration": "Chapter 3. Meditation. Swimming is meditation.",
+      "audio": "audio/03-full.wav",
+      "seconds": 5.91,
+      "mp3": "output/chapters/03-meditation.mp3"
+    },
+    {
+      "n": 4,
+      "title": "Art",
+      "verses": [
+        "Swimming is an art."
+      ],
+      "notes": [],
+      "narration": "Chapter 4. Art. Swimming is an art.",
+      "audio": "audio/04-full.wav",
+      "seconds": 5.18,
+      "mp3": "output/chapters/04-art.mp3"
+    },
+    {
+      "n": 5,
+      "title": "Observe",
+      "verses": [
+        "Observe before entering the water."
+      ],
+      "notes": [
+        "At the beach, observe the waves.",
+        "In a swimming pool, observe the spaces."
+      ],
+      "narration": "Chapter 5. Observe. Observe before entering the water. Explain notes. At the beach, observe the waves. In a swimming pool, observe the spaces.",
+      "audio": "audio/05-full.wav",
+      "seconds": 14.08,
+      "mp3": "output/chapters/05-observe.mp3"
+    },
+    {
+      "n": 6,
+      "title": "Swim",
+      "verses": [
+        "Enter the water and swim."
+      ],
+      "notes": [
+        "Enter where you can."
+      ],
+      "narration": "Chapter 6. Swim. Enter the water and swim. Explain notes. Enter where you can.",
+      "audio": "audio/06-full.wav",
+      "seconds": 9.8,
+      "mp3": "output/chapters/06-swim.mp3"
+    },
+    {
+      "n": 7,
+      "title": "Crowded",
+      "verses": [
+        "No matter how crowded, you can swim there."
+      ],
+      "notes": [
+        "A crowded pool has spaces that keeps changing."
+      ],
+      "narration": "Chapter 7. Crowded. No matter how crowded, you can swim there. Explain notes. A crowded pool has spaces that keeps changing.",
+      "audio": "audio/07-full.wav",
+      "seconds": 12.62,
+      "mp3": "output/chapters/07-crowded.mp3"
+    },
+    {
+      "n": 8,
+      "title": "Shallow",
+      "verses": [
+        "No matter how shallow, you can swim there."
+      ],
+      "notes": [],
+      "narration": "Chapter 8. Shallow. No matter how shallow, you can swim there.",
+      "audio": "audio/08-full.wav",
+      "seconds": 6.63,
+      "mp3": "output/chapters/08-shallow.mp3"
+    },
+    {
+      "n": 9,
+      "title": "Get out",
+      "verses": [
+        "When to get out may depend on whether able to swim there or not."
+      ],
+      "notes": [],
+      "narration": "Chapter 9. Get out. When to get out may depend on whether able to swim there or not.",
+      "audio": "audio/09-full.wav",
+      "seconds": 7.46,
+      "mp3": "output/chapters/09-get-out.mp3"
+    },
+    {
+      "n": 10,
+      "title": "Goal",
+      "verses": [
+        "Swim without a goal."
+      ],
+      "notes": [
+        "Swimming how long doesn't really matter.",
+        "Swimming how far doesn't really matter."
+      ],
+      "narration": "Chapter 10. Goal. Swim without a goal. Explain notes. Swimming how long doesn't really matter. Swimming how far doesn't really matter.",
+      "audio": "audio/10-full.wav",
+      "seconds": 12.19,
+      "mp3": "output/chapters/10-goal.mp3"
+    },
+    {
+      "n": 11,
+      "title": "Fun",
+      "verses": [
+        "Swimming should be fun."
+      ],
+      "notes": [],
+      "narration": "Chapter 11. Fun. Swimming should be fun.",
+      "audio": "audio/11-full.wav",
+      "seconds": 5.84,
+      "mp3": "output/chapters/11-fun.mp3"
+    },
+    {
+      "n": 12,
+      "title": "Pool",
+      "verses": [
+        "Swim in the pool as if you are walking in a street."
+      ],
+      "notes": [],
+      "narration": "Chapter 12. Pool. Swim in the pool as if you are walking in a street.",
+      "audio": "audio/12-full.wav",
+      "seconds": 6.54,
+      "mp3": "output/chapters/12-pool.mp3"
+    },
+    {
+      "n": 13,
+      "title": "Beach",
+      "verses": [
+        "Swim at the beach not affected by the waves."
+      ],
+      "notes": [
+        "Waves make it more fun."
+      ],
+      "narration": "Chapter 13. Beach. Swim at the beach not affected by the waves. Explain notes. Waves make it more fun.",
+      "audio": "audio/13-full.wav",
+      "seconds": 10.85,
+      "mp3": "output/chapters/13-beach.mp3"
+    },
+    {
+      "n": 14,
+      "title": "Freestyle",
+      "verses": [
+        "Choose freestyle."
+      ],
+      "notes": [],
+      "narration": "Chapter 14. Freestyle. Choose freestyle.",
+      "audio": "audio/14-full.wav",
+      "seconds": 5.69,
+      "mp3": "output/chapters/14-freestyle.mp3"
+    },
+    {
+      "n": 15,
+      "title": "Breathing",
+      "verses": [
+        "Breathing on one side.",
+        "One breath every four strokes."
+      ],
+      "notes": [],
+      "narration": "Chapter 15. Breathing. Breathing on one side. One breath every four strokes.",
+      "audio": "audio/15-full.wav",
+      "seconds": 8.3,
+      "mp3": "output/chapters/15-breathing.mp3"
+    },
+    {
+      "n": 16,
+      "title": "Eyes",
+      "verses": [
+        "Should look at the bottom of the water."
+      ],
+      "notes": [
+        "So your neck can be relaxed."
+      ],
+      "narration": "Chapter 16. Eyes. Should look at the bottom of the water. Explain notes. So your neck can be relaxed.",
+      "audio": "audio/16-full.wav",
+      "seconds": 10.45,
+      "mp3": "output/chapters/16-eyes.mp3"
+    },
+    {
+      "n": 17,
+      "title": "Rhythm",
+      "verses": [
+        "Swim in a rhythm that suits you best."
+      ],
+      "notes": [],
+      "narration": "Chapter 17. Rhythm. Swim in a rhythm that suits you best.",
+      "audio": "audio/17-full.wav",
+      "seconds": 6.51,
+      "mp3": "output/chapters/17-rhythm.mp3"
+    },
+    {
+      "n": 18,
+      "title": "Mistake",
+      "verses": [
+        "Do not swim longer than needed.",
+        "That will make the same mistakes longer."
+      ],
+      "notes": [],
+      "narration": "Chapter 18. Mistake. Do not swim longer than needed. That will make the same mistakes longer.",
+      "audio": "audio/18-full.wav",
+      "seconds": 8.87,
+      "mp3": "output/chapters/18-mistake.mp3"
+    },
+    {
+      "n": 19,
+      "title": "Teacher",
+      "verses": [
+        "Forget about what you learnt from a teacher."
+      ],
+      "notes": [],
+      "narration": "Chapter 19. Teacher. Forget about what you learnt from a teacher.",
+      "audio": "audio/19-full.wav",
+      "seconds": 6.54,
+      "mp3": "output/chapters/19-teacher.mp3"
+    },
+    {
+      "n": 20,
+      "title": "Routine",
+      "verses": [
+        "Wake up, brush teeth, go to swim."
+      ],
+      "notes": [],
+      "narration": "Chapter 20. Routine. Wake up, brush teeth, go to swim.",
+      "audio": "audio/20-full.wav",
+      "seconds": 6.98,
+      "mp3": "output/chapters/20-routine.mp3"
+    },
+    {
+      "n": 21,
+      "title": "Passion",
+      "verses": [
+        "Swimming is no longer a passion."
+      ],
+      "notes": [],
+      "narration": "Chapter 21. Passion. Swimming is no longer a passion.",
+      "audio": "audio/21-full.wav",
+      "seconds": 6.34,
+      "mp3": "output/chapters/21-passion.mp3"
+    },
+    {
+      "n": 22,
+      "title": "Habit",
+      "verses": [
+        "Swimming is not a habit."
+      ],
+      "notes": [],
+      "narration": "Chapter 22. Habit. Swimming is not a habit.",
+      "audio": "audio/22-full.wav",
+      "seconds": 5.98,
+      "mp3": "output/chapters/22-habit.mp3"
+    },
+    {
+      "n": 23,
+      "title": "Change",
+      "verses": [
+        "Swimming is infinite change."
+      ],
+      "notes": [],
+      "narration": "Chapter 23. Change. Swimming is infinite change.",
+      "audio": "audio/23-full.wav",
+      "seconds": 6.33,
+      "mp3": "output/chapters/23-change.mp3"
+    },
+    {
+      "n": 24,
+      "title": "Ideas",
+      "verses": [
+        "Swimming is source of ideas."
+      ],
+      "notes": [],
+      "narration": "Chapter 24. Ideas. Swimming is source of ideas.",
+      "audio": "audio/24-full.wav",
+      "seconds": 6.3,
+      "mp3": "output/chapters/24-ideas.mp3"
+    },
+    {
+      "n": 25,
+      "title": "Wisdom",
+      "verses": [
+        "Swimming is source of wisdom."
+      ],
+      "notes": [],
+      "narration": "Chapter 25. Wisdom. Swimming is source of wisdom.",
+      "audio": "audio/25-full.wav",
+      "seconds": 6.4,
+      "mp3": "output/chapters/25-wisdom.mp3"
+    },
+    {
+      "n": 26,
+      "title": "Feel",
+      "verses": [
+        "Swimming is feeling what the water is like."
+      ],
+      "notes": [
+        "Feel what it is like and you will become water."
+      ],
+      "narration": "Chapter 26. Feel. Swimming is feeling what the water is like. Explain notes. Feel what it is like and you will become water.",
+      "audio": "audio/26-full.wav",
+      "seconds": 11.9,
+      "mp3": "output/chapters/26-feel.mp3"
+    },
+    {
+      "n": 27,
+      "title": "Balance",
+      "verses": [
+        "Swimming is balance."
+      ],
+      "notes": [],
+      "narration": "Chapter 27. Balance. Swimming is balance.",
+      "audio": "audio/27-full.wav",
+      "seconds": 6.19,
+      "mp3": "output/chapters/27-balance.mp3"
+    },
+    {
+      "n": 28,
+      "title": "Hands",
+      "verses": [
+        "Hands can pull back at any time.",
+        "Hands can push water to the sides.",
+        "The same hand can pull two times in a row."
+      ],
+      "notes": [],
+      "narration": "Chapter 28. Hands. Hands can pull back at any time. Hands can push water to the sides. The same hand can pull two times in a row.",
+      "audio": "audio/28-full.wav",
+      "seconds": 12.79,
+      "mp3": "output/chapters/28-hands.mp3"
+    },
+    {
+      "n": 29,
+      "title": "Head",
+      "verses": [
+        "Head can come out of the water and look to any direction steadily."
+      ],
+      "notes": [],
+      "narration": "Chapter 29. Head. Head can come out of the water and look to any direction steadily.",
+      "audio": "audio/29-full.wav",
+      "seconds": 8.0,
+      "mp3": "output/chapters/29-head.mp3"
+    },
+    {
+      "n": 30,
+      "title": "Legs",
+      "verses": [
+        "Legs can stretch out to keep balance."
+      ],
+      "notes": [],
+      "narration": "Chapter 30. Legs. Legs can stretch out to keep balance.",
+      "audio": "audio/30-full.wav",
+      "seconds": 6.8,
+      "mp3": "output/chapters/30-legs.mp3"
+    },
+    {
+      "n": 31,
+      "title": "Knees",
+      "verses": [
+        "Knees can touch the bottom of the pool."
+      ],
+      "notes": [],
+      "narration": "Chapter 31. Knees. Knees can touch the bottom of the pool.",
+      "audio": "audio/31-full.wav",
+      "seconds": 6.37,
+      "mp3": "output/chapters/31-knees.mp3"
+    },
+    {
+      "n": 32,
+      "title": "Toes",
+      "verses": [
+        "Toes can push the lower body up."
+      ],
+      "notes": [],
+      "narration": "Chapter 32. Toes. Toes can push the lower body up.",
+      "audio": "audio/32-full.wav",
+      "seconds": 6.41,
+      "mp3": "output/chapters/32-toes.mp3"
+    },
+    {
+      "n": 33,
+      "title": "Body",
+      "verses": [
+        "The body can tilt upwards.",
+        "The body can bend up in the middle."
+      ],
+      "notes": [
+        "Both ways keep the head up, and you can see more above the water."
+      ],
+      "narration": "Chapter 33. Body. The body can tilt upwards. The body can bend up in the middle. Explain notes. Both ways keep the head up, and you can see more above the water.",
+      "audio": "audio/33-full.wav",
+      "seconds": 14.75,
+      "mp3": "output/chapters/33-body.mp3"
+    },
+    {
+      "n": 34,
+      "title": "Wave",
+      "verses": [
+        "A hand can also be used to wave above the water to greet a friend."
+      ],
+      "notes": [],
+      "narration": "Chapter 34. Wave. A hand can also be used to wave above the water to greet a friend.",
+      "audio": "audio/34-full.wav",
+      "seconds": 8.24,
+      "mp3": "output/chapters/34-wave.mp3"
+    },
+    {
+      "n": 35,
+      "title": "Movement",
+      "verses": [
+        "Movement should be as soft as water."
+      ],
+      "notes": [],
+      "narration": "Chapter 35. Movement. Movement should be as soft as water.",
+      "audio": "audio/35-full.wav",
+      "seconds": 6.75,
+      "mp3": "output/chapters/35-movement.mp3"
+    },
+    {
+      "n": 36,
+      "title": "Form",
+      "verses": [
+        "How to swim doesn't really matter.",
+        "Shallow or deep is really the same.",
+        "Change the form accordingly."
+      ],
+      "notes": [],
+      "narration": "Chapter 36. Form. How to swim doesn't really matter. Shallow or deep is really the same. Change the form accordingly.",
+      "audio": "audio/36-full.wav",
+      "seconds": 11.75,
+      "mp3": "output/chapters/36-form.mp3"
+    },
+    {
+      "n": 37,
+      "title": "Circles",
+      "verses": [
+        "Try to swim in small circles at the beach."
+      ],
+      "notes": [],
+      "narration": "Chapter 37. Circles. Try to swim in small circles at the beach.",
+      "audio": "audio/37-full.wav",
+      "seconds": 6.75,
+      "mp3": "output/chapters/37-circles.mp3"
+    },
+    {
+      "n": 38,
+      "title": "Every pool",
+      "verses": [
+        "Try to swim in every pool."
+      ],
+      "notes": [],
+      "narration": "Chapter 38. Every pool. Try to swim in every pool.",
+      "audio": "audio/38-full.wav",
+      "seconds": 6.51,
+      "mp3": "output/chapters/38-every-pool.mp3"
+    },
+    {
+      "n": 39,
+      "title": "Lane",
+      "verses": [
+        "In a swimming pool, you do not have to hold a lane."
+      ],
+      "notes": [
+        "You can swim left or right and find your lane within the spaces.",
+        "It will eventually be your lane when you follow the same path, even if it is not a straight line."
+      ],
+      "narration": "Chapter 39. Lane. In a swimming pool, you do not have to hold a lane. Explain notes. You can swim left or right and find your lane within the spaces. It will eventually be your lane when you follow the same path, even if it is not a straight line.",
+      "audio": "audio/39-full.wav",
+      "seconds": 18.89,
+      "mp3": "output/chapters/39-lane.mp3"
+    },
+    {
+      "n": 40,
+      "title": "Fast lane",
+      "verses": [
+        "Avoid swimming in a fast lane if possible."
+      ],
+      "notes": [],
+      "narration": "Chapter 40. Fast lane. Avoid swimming in a fast lane if possible.",
+      "audio": "audio/40-full.wav",
+      "seconds": 7.31,
+      "mp3": "output/chapters/40-fast-lane.mp3"
+    },
+    {
+      "n": 41,
+      "title": "Guarding",
+      "verses": [
+        "Guard with your upper arm touching theirs.",
+        "Guard their legs.",
+        "Guard your chest."
+      ],
+      "notes": [
+        "Palm can face upwards."
+      ],
+      "narration": "Chapter 41. Guarding. Guard with your upper arm touching theirs. Guard their legs. Guard your chest. Explain notes. Palm can face upwards.",
+      "audio": "audio/41-full.wav",
+      "seconds": 14.32,
+      "mp3": "output/chapters/41-guarding.mp3"
+    },
+    {
+      "n": 42,
+      "title": "Space",
+      "verses": [
+        "Better, place your hand there and leave some space."
+      ],
+      "notes": [],
+      "narration": "Chapter 42. Space. Better, place your hand there and leave some space.",
+      "audio": "audio/42-full.wav",
+      "seconds": 7.46,
+      "mp3": "output/chapters/42-space.mp3"
+    },
+    {
+      "n": 43,
+      "title": "Elsewhere",
+      "verses": [
+        "Best swim elsewhere."
+      ],
+      "notes": [],
+      "narration": "Chapter 43. Elsewhere. Best swim elsewhere.",
+      "audio": "audio/43-full.wav",
+      "seconds": 6.23,
+      "mp3": "output/chapters/43-elsewhere.mp3"
+    },
+    {
+      "n": 44,
+      "title": "Compare",
+      "verses": [
+        "Do not compare with others.",
+        "Only compare with yourself."
+      ],
+      "notes": [],
+      "narration": "Chapter 44. Compare. Do not compare with others. Only compare with yourself.",
+      "audio": "audio/44-full.wav",
+      "seconds": 8.43,
+      "mp3": "output/chapters/44-compare.mp3"
+    },
+    {
+      "n": 45,
+      "title": "Pass",
+      "verses": [
+        "When a faster swimmer is passing you, let them pass."
+      ],
+      "notes": [],
+      "narration": "Chapter 45. Pass. When a faster swimmer is passing you, let them pass.",
+      "audio": "audio/45-full.wav",
+      "seconds": 7.85,
+      "mp3": "output/chapters/45-pass.mp3"
+    },
+    {
+      "n": 46,
+      "title": "Steady",
+      "verses": [
+        "There is no swimming fast, but there is swimming steady."
+      ],
+      "notes": [
+        "Do not swim to exhaust your body.",
+        "The best swimming is like having not been swimming."
+      ],
+      "narration": "Chapter 46. Steady. There is no swimming fast, but there is swimming steady. Explain notes. Do not swim to exhaust your body. The best swimming is like having not been swimming.",
+      "audio": "audio/46-full.wav",
+      "seconds": 14.87,
+      "mp3": "output/chapters/46-steady.mp3"
+    },
+    {
+      "n": 47,
+      "title": "Suit",
+      "verses": [
+        "Wear a scuba diver suit and you can still swim at a good speed."
+      ],
+      "notes": [
+        "It becomes part of your body.",
+        "It makes you like a balloon, so you float more at the beach, therefore safer."
+      ],
+      "narration": "Chapter 47. Suit. Wear a scuba diver suit and you can still swim at a good speed. Explain notes. It becomes part of your body. It makes you like a balloon, so you float more at the beach, therefore safer.",
+      "audio": "audio/47-full.wav",
+      "seconds": 16.83,
+      "mp3": "output/chapters/47-suit.mp3"
+    },
+    {
+      "n": 48,
+      "title": "Alert",
+      "verses": [
+        "Better no need to stay alert than have to."
+      ],
+      "notes": [
+        "When you stay alert, you cannot enter the flow state.",
+        "You need to stay alert because you are too close to another swimmer, or because you have not found your way in the water."
+      ],
+      "narration": "Chapter 48. Alert. Better no need to stay alert than have to. Explain notes. When you stay alert, you cannot enter the flow state. You need to stay alert because you are too close to another swimmer, or because you have not found your way in the water.",
+      "audio": "audio/48-full.wav",
+      "seconds": 18.28,
+      "mp3": "output/chapters/48-alert.mp3"
+    },
+    {
+      "n": 49,
+      "title": "Reflection",
+      "verses": [
+        "Think of a time you were calm in this pool and compare what it was like with now."
+      ],
+      "notes": [],
+      "narration": "Chapter 49. Reflection. Think of a time you were calm in this pool and compare what it was like with now.",
+      "audio": "audio/49-full.wav",
+      "seconds": 9.11,
+      "mp3": "output/chapters/49-reflection.mp3"
+    },
+    {
+      "n": 50,
+      "title": "Master swimmer",
+      "verses": [
+        "A master swimmer inspires others by showing them what they thought was not possible."
+      ],
+      "notes": [],
+      "narration": "Chapter 50. Master swimmer. A master swimmer inspires others by showing them what they thought was not possible.",
+      "audio": "audio/50-full.wav",
+      "seconds": 9.27,
+      "mp3": "output/chapters/50-master-swimmer.mp3"
+    }
+  ],
+  "video_note": "Still cards. No zoom. Each chapter is one repeated frame."
+}
